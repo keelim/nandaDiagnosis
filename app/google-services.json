@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "304892513823",
+    "firebase_url": "https://nanda-43263.firebaseio.com",
+    "project_id": "nanda-43263",
+    "storage_bucket": "nanda-43263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304892513823:android:31aaec047f2be088c28f2a",
+        "android_client_info": {
+          "package_name": "com.keelim.nandadiagnosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304892513823-p6h0odkjg51hkmd3caad98eok1v1osdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keelim.nandadiagnosis",
+            "certificate_hash": "0b699db109e35add5c71cb4c877275ee1af1d453"
+          }
+        },
+        {
+          "client_id": "304892513823-v3udgcpf7pa7v14536qlv51lgcjvq1ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6dpb3YvGO8eBUviJxWwVJA3RuoD3joc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304892513823-ntt26ukucj6hb4p8pdfhmqrg9emrhigb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3115620439518585~3588723583"
+    }
+  ],
+  "configuration_version": "1"
+}
