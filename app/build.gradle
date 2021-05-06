@@ -68,7 +68,7 @@ dependencies {
     implementation "com.google.firebase:firebase-analytics-ktx"
     implementation 'com.google.firebase:firebase-inappmessaging-display-ktx'
 
-    implementation 'com.google.ads.mediation:facebook:6.2.0.0'
+    implementation 'com.google.ads.mediation:facebook:6.4.0.0'
     implementation "org.koin:koin-android:2.1.5"
     implementation 'com.dino.library:simplerecyclerview:0.7.0'
 
