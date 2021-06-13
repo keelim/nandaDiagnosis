@@ -125,7 +125,7 @@ dependencies {
 
 
 
-    implementation 'com.facebook.android:facebook-login:8.2.0'
+    implementation 'com.facebook.android:facebook-login:11.0.0'
     implementation 'com.github.yuyakaido:cardstackview:2.3.4'
 
 
